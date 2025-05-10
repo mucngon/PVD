@@ -1,6 +1,6 @@
 # 🎥 PVD Video Steganography
 
-Dự án giấu tin vào video bằng kỹ thuật **PVD (Pixel Value Differencing)** kết hợp **Optimal Pixel Adjustment (OPA)**. Dự án bao gồm 5 nhiệm vụ chính, từ chuyển tin thành bit, giấu tin, trích xuất tin, kiểm tra dung lượng video đến so sánh đặc trưng thống kê.
+Dự án giấu tin vào video bằng kỹ thuật **PVD (Pixel Value Differencing)**. Dự án bao gồm 5 nhiệm vụ chính, từ chuyển tin thành bit, giấu tin, trích xuất tin, kiểm tra dung lượng video đến so sánh đặc trưng thống kê.
 
 ---
 
