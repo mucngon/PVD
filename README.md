@@ -47,10 +47,7 @@ Dự án giấu tin vào video bằng kỹ thuật **PVD (Pixel Value Differenci
 - **File**: compare_stats.py
 - **Chức năng**:  So sánh các đặc trưng thống kê giữa video gốc và video chứa tin (như histogram, PSNR...)
 - **Cách dùng**:
-  '''bash
-  nano compare_stats.py
-  python3 compare_stats.py
 
   ```bash
-nano compare_stats.py
-python3 compare_stats.py
+  nano compare_stats.py
+  python3 compare_stats.py
