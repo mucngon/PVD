@@ -19,8 +19,8 @@ Dự án giấu tin vào video bằng kỹ thuật **PVD (Pixel Value Differenci
 - **Chức năng**: Nhúng thông điệp vào video bằng kỹ thuật PVD
 - **Cách dùng**:
   ```bash
-nano PVD.py            # Chỉnh sửa thông điệp nếu cần
-python3 PVD.py         # Chạy chương trình giấu tin
+  nano PVD.py            # Chỉnh sửa thông điệp nếu cần
+  python3 PVD.py         # Chạy chương trình giấu tin
 
   ## ✅Nhiệm vụ 3: Giải tin
 
