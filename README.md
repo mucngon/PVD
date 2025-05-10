@@ -22,7 +22,7 @@ Dự án giấu tin vào video bằng kỹ thuật **PVD (Pixel Value Differenci
   nano PVD.py            # Chỉnh sửa thông điệp nếu cần
   python3 PVD.py         # Chạy chương trình giấu tin
 
-  ## ✅Nhiệm vụ 3: Giải tin
+## ✅Nhiệm vụ 3: Giải tin
 
 - **File**: PVD_extracted.py
 - **Chức năng**: Giải mã và trích xuất thông điệp từ video đã nhúng tin.
@@ -31,7 +31,7 @@ Dự án giấu tin vào video bằng kỹ thuật **PVD (Pixel Value Differenci
   nano PVD_extracted.py  # Xem hoặc chỉnh sửa code nếu cần
   python3 PVD_extracted.py
   
-  ## ✅Nhiệm vụ 4: Kiểm tra dung lượng video xuất ra
+## ✅Nhiệm vụ 4: Kiểm tra dung lượng video xuất ra
 
 
 - **File**: checksize.py
@@ -41,7 +41,7 @@ Dự án giấu tin vào video bằng kỹ thuật **PVD (Pixel Value Differenci
   nano checksize.py
   python3 checksize.py
 
-  ## ✅Nhiệm vụ 5: So sánh video gốc và video đã giấu tin
+## ✅Nhiệm vụ 5: So sánh video gốc và video đã giấu tin
 
 
 - **File**: compare_stats.py
